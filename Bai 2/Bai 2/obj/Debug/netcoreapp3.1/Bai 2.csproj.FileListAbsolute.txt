@@ -1,0 +1,13 @@
+G:\New folder\C#\Bai 2\Bai 2\obj\Debug\netcoreapp3.1\Bai 2.csprojAssemblyReference.cache
+G:\New folder\C#\Bai 2\Bai 2\obj\Debug\netcoreapp3.1\Bai 2.AssemblyInfoInputs.cache
+G:\New folder\C#\Bai 2\Bai 2\obj\Debug\netcoreapp3.1\Bai 2.AssemblyInfo.cs
+G:\New folder\C#\Bai 2\Bai 2\obj\Debug\netcoreapp3.1\Bai 2.csproj.CoreCompileInputs.cache
+G:\New folder\C#\Bai 2\Bai 2\bin\Debug\netcoreapp3.1\Bai 2.exe
+G:\New folder\C#\Bai 2\Bai 2\bin\Debug\netcoreapp3.1\Bai 2.deps.json
+G:\New folder\C#\Bai 2\Bai 2\bin\Debug\netcoreapp3.1\Bai 2.runtimeconfig.json
+G:\New folder\C#\Bai 2\Bai 2\bin\Debug\netcoreapp3.1\Bai 2.runtimeconfig.dev.json
+G:\New folder\C#\Bai 2\Bai 2\bin\Debug\netcoreapp3.1\Bai 2.dll
+G:\New folder\C#\Bai 2\Bai 2\bin\Debug\netcoreapp3.1\Bai 2.pdb
+G:\New folder\C#\Bai 2\Bai 2\obj\Debug\netcoreapp3.1\Bai 2.dll
+G:\New folder\C#\Bai 2\Bai 2\obj\Debug\netcoreapp3.1\Bai 2.pdb
+G:\New folder\C#\Bai 2\Bai 2\obj\Debug\netcoreapp3.1\Bai 2.genruntimeconfig.cache

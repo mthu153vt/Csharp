@@ -1,0 +1,13 @@
+G:\New folder\C#\CSharp Excercise\CSharp Excercise\bin\Debug\netcoreapp3.1\CSharp Excercise.exe
+G:\New folder\C#\CSharp Excercise\CSharp Excercise\bin\Debug\netcoreapp3.1\CSharp Excercise.deps.json
+G:\New folder\C#\CSharp Excercise\CSharp Excercise\bin\Debug\netcoreapp3.1\CSharp Excercise.runtimeconfig.json
+G:\New folder\C#\CSharp Excercise\CSharp Excercise\bin\Debug\netcoreapp3.1\CSharp Excercise.runtimeconfig.dev.json
+G:\New folder\C#\CSharp Excercise\CSharp Excercise\bin\Debug\netcoreapp3.1\CSharp Excercise.dll
+G:\New folder\C#\CSharp Excercise\CSharp Excercise\bin\Debug\netcoreapp3.1\CSharp Excercise.pdb
+G:\New folder\C#\CSharp Excercise\CSharp Excercise\obj\Debug\netcoreapp3.1\CSharp Excercise.csprojAssemblyReference.cache
+G:\New folder\C#\CSharp Excercise\CSharp Excercise\obj\Debug\netcoreapp3.1\CSharp Excercise.AssemblyInfoInputs.cache
+G:\New folder\C#\CSharp Excercise\CSharp Excercise\obj\Debug\netcoreapp3.1\CSharp Excercise.AssemblyInfo.cs
+G:\New folder\C#\CSharp Excercise\CSharp Excercise\obj\Debug\netcoreapp3.1\CSharp Excercise.csproj.CoreCompileInputs.cache
+G:\New folder\C#\CSharp Excercise\CSharp Excercise\obj\Debug\netcoreapp3.1\CSharp Excercise.dll
+G:\New folder\C#\CSharp Excercise\CSharp Excercise\obj\Debug\netcoreapp3.1\CSharp Excercise.pdb
+G:\New folder\C#\CSharp Excercise\CSharp Excercise\obj\Debug\netcoreapp3.1\CSharp Excercise.genruntimeconfig.cache
